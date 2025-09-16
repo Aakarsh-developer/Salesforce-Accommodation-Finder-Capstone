@@ -57,14 +57,7 @@ The company wants a **Salesforce CRM solution** to:
 - **Dashboard:** Occupied vs Vacant Rooms (Occupancy Analysis).  
 - **Student Trends:** Active students, cancelled bookings.  
 - **Agent Performance:** Requests resolved per agent.  
-
----
-
-## 📊 Example Dashboards  
-- **Occupancy Dashboard:** % of rooms booked vs vacant.  
-- **Booking Trends:** Requests raised by students over time.  
-- **Complaint Analysis:** Complaints by type (Maintenance, Wi-Fi, Cleanliness).  
-- **Agent Productivity:** Cases resolved per agent.  
+  
 
 ---
 
