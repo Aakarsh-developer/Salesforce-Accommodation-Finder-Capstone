@@ -1,18 +1,12 @@
 #  Student Accommodation Finder – Affordable Housing CRM  
-
-##  Industry  
-Real Estate / Education Services  
-
-##  Project Type  
-B2C Salesforce CRM Implementation  
-
-##  Target Users  
+-Industry : Real Estate / Education Services  
+-Project Type :B2C Salesforce CRM Implementation  
+-Target Users: 
 - Students  
 - Property Owners  
 - Customer Support Agents  
 - Managers  
 
----
 
 ##  Problem Statement  
 Many students studying outside their hometown struggle to find affordable and reliable accommodations. Current processes are fragmented:  
@@ -29,7 +23,6 @@ The company wants a **Salesforce CRM solution** to:
 - Offer a **self-service portal** for students to search and request rooms.  
 - Enable managers to track occupancy, complaints, and service performance.  
 
----
 
 ##  Use Cases  
 
