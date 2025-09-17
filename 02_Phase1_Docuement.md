@@ -1,7 +1,6 @@
 # Phase 1: Problem Understanding & Industry Analysis
 
 ## 1. Requirement Gathering
-
 ### Functional Requirements
 - Students should be able to register and create profiles.  
 - Students can search for rooms/hostels/PGs by city, price, facilities, and availability.  
