@@ -54,5 +54,5 @@ Before custom development, we explored Salesforce AppExchange to check for exist
 - **Property Management Apps**: Designed for large-scale real estate companies, not student-focused.  
 - **Rental Management Apps**: Expensive and more suited for commercial leasing.  
 - **Education Apps**: Focused on learning, not accommodation.  
-```
+
 
