@@ -35,10 +35,10 @@
   - **Salesforce License** → Admins and Managers.  
 - Profiles and permission sets used to define user access levels.  
 
-### Student User
+### - Student User
 <img src="./Screenshots/Student%20User.png" alt="Student User" width="500" style="border:2px solid #4CAF50; border-radius:10px;">
 
-### Landlord User
+### - Landlord User
 <img src="./Screenshots/Landlord%20User.png" alt="Landlord User" width="500" style="border:2px solid #4CAF50; border-radius:10px;">
 
 
@@ -49,7 +49,7 @@
   - **Landlord Profile** – can list accommodations, update availability, and view booking requests.  
   - **Admin Profile** – full access to manage users, approvals, and data.  
 
-### Student Profile
+### - Student Profile
 <img src="./Screenshots/Student%20Profile.png" alt="Student Profile" width="500" style="border:2px solid #4CAF50; border-radius:10px;">
 
 ### Landlord Profile
