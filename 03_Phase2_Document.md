@@ -35,7 +35,7 @@
   - **Salesforce License** → Admins and Managers.  
 - Profiles and permission sets used to define user access levels.  
 
-### - Student User
+###   Student User
 <img src="./Screenshots/Student%20User.png" alt="Student User" width="500" style="border:2px solid #4CAF50; border-radius:10px;">
 
 ### - Landlord User
