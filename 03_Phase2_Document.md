@@ -1,4 +1,5 @@
 # Phase 2: Org Setup & Configuration
+---
 
 ## 1. Salesforce Editions
 - The project is implemented on the **Salesforce Developer Edition org**, which provides free access for customization and testing.  
