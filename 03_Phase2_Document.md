@@ -1,11 +1,9 @@
 # Phase 2: Org Setup & Configuration
----
-
 ## 1. Salesforce Editions
 - The project is implemented on the **Salesforce Developer Edition org**, which provides free access for customization and testing.  
 - For real-world deployment, **Enterprise Edition** would be preferred because it supports advanced features like profiles, roles, sharing rules, API integration, and sandbox creation.
 
----
+
 
 ## 2. Company Profile Setup
 - Company profile set as **Student Accommodation Finder Pvt. Ltd.**  
@@ -14,7 +12,7 @@
 
 <img src="./Screenshots/Company%20profile.png" alt="Company Profile" width="500" style="border:2px solid #4CAF50; border-radius:10px;">
 
----
+
 
 ## 3. Business Hours & Holidays
 - Business hours configured as **Monday–Saturday (9:00 AM – 7:00 PM)** to reflect accommodation support team availability.  
@@ -22,13 +20,13 @@
 
 <img src="./Screenshots/Business%20hours.png" alt="Business Hours" width="500" style="border:2px solid #4CAF50; border-radius:10px;">
 
----
+
 
 ## 4. Fiscal Year Settings
 - **Standard fiscal year** chosen (April–March) to align with Indian financial year standards.  
 - Helps in generating financial reports for accommodation revenue and landlord payments.  
 
----
+
 
 ## 5. User Setup & Licenses
 - Users created for different roles: **Students, Landlords, Admins**.  
@@ -43,7 +41,7 @@
 ### Landlord User
 <img src="./Screenshots/Landlord%20User.png" alt="Landlord User" width="500" style="border:2px solid #4CAF50; border-radius:10px;">
 
----
+
 
 ## 6. Profiles
 - Profiles created to define baseline permissions:  
@@ -60,7 +58,7 @@
 ### Admin Profile
 <img src="./Screenshots/System%20Administrator%20profile.png" alt="Admin Profile" width="500" style="border:2px solid #4CAF50; border-radius:10px;">
 
----
+
 
 ## 7. Roles
 - Role hierarchy defined to control data visibility:  
